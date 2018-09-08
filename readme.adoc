@@ -1,4 +1,4 @@
-= asciidocをつかってドキュメントを生成するサンプル
+= asciidocを使ってドキュメントを生成するサンプル
 
 == インストール手順
 
@@ -28,5 +28,5 @@ https://qiita.com/tamikura@github/items/5d3f62dae55617ee42bb
 .AsciiDoc と PlantUML (仮)
 https://qiita.com/masakura/items/d8c7563f2f6744819c7a
 
-.VS Code でフロントマターのある AsciiDoc を扱う
+.VSCodeでフロントマターのある AsciiDoc を扱う
 https://qiita.com/wgag/items/292f6a27ae93fdd660eb
