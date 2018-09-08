@@ -35,5 +35,5 @@ https://qiita.com/wgag/items/292f6a27ae93fdd660eb
 [NOTE]
 ====
 * VSCodeで扱う場合はプラグインの導入だけでなく、設定の追加が必要
-* プレビューはできるが、プラグインからのHTMLやPDFの生成はできない
+* AsciiDocプラグインはプレビュ-機能はあるが、プラグインからのHTMLやPDFの生成はできない
 ====
