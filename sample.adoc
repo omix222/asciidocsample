@@ -54,7 +54,7 @@ asciidocとは [blue]#軽量マークアップ言語# です
 * format="csv"ではできません
 ====
 
-=== asciidoctorだとPlantUMLでシーケンス図作成
+=== asciidoctorをつかってPlantUML記法でシーケンス図作成
 
 [plantuml]
 --
