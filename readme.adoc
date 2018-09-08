@@ -2,7 +2,7 @@
 
 == インストール手順
 
-.Macでの実行手順。Ruby(gem)はインストール済みの前提
+.Ruby(gem)はインストール済みの前提
 [source, bash]
 gem install asciidoctor
 gem install --pre asciidoctor-pdf
@@ -20,6 +20,7 @@ asciidoctor -r asciidoctor-diagram sample.adoc
 [source, bash]
 asciidoctor-pdf -r asciidoctor-diagram sample.adoc 
 
+
 == 参考にしたサイト
 
 .脱Word、脱Markdown、asciidocでドキュメント作成する際のアレコレ
@@ -30,3 +31,9 @@ https://qiita.com/masakura/items/d8c7563f2f6744819c7a
 
 .VSCodeでフロントマターのある AsciiDoc を扱う
 https://qiita.com/wgag/items/292f6a27ae93fdd660eb
+
+[NOTE]
+====
+* VSCodeで扱う場合はプラグインの導入だけでなく、設定の追加が必要
+* プレビューはできるが、プラグインからのHTMLやPDFの生成はできない
+====
